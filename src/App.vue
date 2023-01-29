@@ -3,5 +3,5 @@ import { BaseButton } from "./index";
 </script>
 
 <template>
-  <BaseButton> Click here </BaseButton>
+  <BaseButton> Click here too </BaseButton>
 </template>
