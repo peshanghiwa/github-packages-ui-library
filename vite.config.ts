@@ -11,7 +11,6 @@ export default defineConfig({
   },
 
   build: {
-    cssCodeSplit: true,
     target: "esnext",
     lib: {
       entry: path.resolve(__dirname, "src/index.ts"),
