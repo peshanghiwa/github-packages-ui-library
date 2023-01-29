@@ -28,7 +28,7 @@
     "test": "exit 0"
   },
   "name": "@peshanghiwa/github-packages-ui-library",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "dependencies": {
     "vue": "^3.2.45"
