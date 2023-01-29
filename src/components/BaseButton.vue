@@ -14,13 +14,13 @@ const fontSize = computed(() => `${props.size}px`);
 </script>
 
 <template>
-  <button class="base-button" :style="{ fontSize, backgroundColor: color }">
+  <button id="baseButton" :style="{ fontSize, backgroundColor: color }">
     <slot />
   </button>
 </template>
 
 <style>
-.base-button {
+#baseButton {
   padding: 1rem 2rem;
   cursor: pointer;
   border: none;
