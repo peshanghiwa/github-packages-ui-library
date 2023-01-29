@@ -28,7 +28,6 @@
     "test": "exit 0"
   },
   "name": "github-packages-ui-library",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "dependencies": {
