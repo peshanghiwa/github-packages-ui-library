@@ -27,7 +27,7 @@
     "preview": "vite preview",
     "test": "exit 0"
   },
-  "name": "github-packages-ui-library",
+  "name": "@peshanghiwa/github-packages-ui-library",
   "version": "0.0.0",
   "type": "module",
   "dependencies": {
